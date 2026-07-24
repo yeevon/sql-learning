@@ -23,7 +23,7 @@
 - [X] Complete SQLBolt lesson 16
 - [X] Record the actual SQLBolt completion date
 - [X] Create the `sql-learning` Git repository
-- [ ] Begin the first Microsoft Learn T-SQL learning path
+- [X] Begin T-SQL Fundamentals, 4th Edition epub
 - [ ] Reproduce the first lesson queries in SSMS
 - [ ] Write two original AdventureWorks queries
 - [ ] Complete three to five matching HackerRank problems
@@ -41,12 +41,16 @@
 Add one row to the progress log after each study session:
 
 ```text
-YYYY-MM-DD | Completed: ___ | Practiced: ___ | Blocker: ___ | Next: ___
+YYYY-MM-DD | Completed: ___ | Update: ___ | Blocker: ___ | Next: ___
 ```
 
 ---
 
- - 2026-07-22 | Completed: SQL Bolt 16 chapters | Practiced: ___ | Blocker: ___ | Next: Microsoft Learn T-SQL
+ - 2026-07-22 | Completed: SQL Bolt | Update: Complete last 2 courses as per the plan 15 & 16 | Blocker: ___ | Next: Microsoft Learn T-SQL
+ - 2026-07-22 | Completed: Enabled free azure subscription provided by OSU | Update: ___ | Blocker: ___ | Next: continue Microsoft Learn T-SQL
+ - 2026-07-22 | Completed: ___ | Update: Dumping the microsoft learning resources they suck purchasing: T-SQL Fundamentals, 4th Edition  | Blocker: ___ | Next: continue Microsoft Learn T-SQL
+ - 2026-07-22 | Completed:  T-SQL Fundamentals - 6% | Update: on page 19  | Blocker: ___ | Next: continue reading T-SQL Fundamentals
+ - 2026-07-22 | Completed:  T-SQL Fundamentals CH1 - 7% | Update: on page 27  | Blocker: ___ | Next: Section 1 of SQL Bootcamp
 
 ---
 

@@ -50,7 +50,8 @@ YYYY-MM-DD | Completed: ___ | Update: ___ | Blocker: ___ | Next: ___
  - 2026-07-22 | Completed: Enabled free azure subscription provided by OSU | Update: ___ | Blocker: ___ | Next: continue Microsoft Learn T-SQL
  - 2026-07-22 | Completed: ___ | Update: Dumping the microsoft learning resources they suck purchasing: T-SQL Fundamentals, 4th Edition  | Blocker: ___ | Next: continue Microsoft Learn T-SQL
  - 2026-07-22 | Completed:  T-SQL Fundamentals - 6% | Update: on page 19  | Blocker: ___ | Next: continue reading T-SQL Fundamentals
- - 2026-07-22 | Completed:  T-SQL Fundamentals CH1 - 7% | Update: on page 27  | Blocker: ___ | Next: Section 1 of SQL Bootcamp
+ - 2026-07-23 | Completed:  T-SQL Fundamentals CH1 - 7% | Update: on page 27  | Blocker: ___ | Next: Section 1 of SQL Bootcamp
+ - 2026-07-23 | Completed:  SQL Bootcamp Section 1 | Update: ___  | Blocker: ___ | Next: Start Chapter 2 of T-Sql Fundamentals
 
 ---
 

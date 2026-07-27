@@ -52,11 +52,10 @@ YYYY-MM-DD | Completed: ___ | Update: ___ | Blocker: ___ | Next: ___
  - 2026-07-22 | Completed:  T-SQL Fundamentals - 6% | Update: on page 19  | Blocker: ___ | Next: continue reading T-SQL Fundamentals
  - 2026-07-23 | Completed:  T-SQL Fundamentals CH1 - 7% | Update: on page 27  | Blocker: ___ | Next: Section 1 of SQL Bootcamp
  - 2026-07-23 | Completed:  SQL Bootcamp Section 1 | Update: ___  | Blocker: ___ | Next: Start Chapter 2 of T-Sql Fundamentals
-
----
+ - 2026-07-26 | Completed:  12% | Update: Completed ch2 - Elements of the Select statement currently on pg 50  | Blocker: ___ | Next: Continue on ch2 Predicates and operators
 
 - ETRM Support Analyst
-- Trading Systems Support Analyst
+- Trading Systems Support Analystz
 - Trading Application Support Analyst
 - Commodity Application Support Analyst
 - Production Support Analyst — Trading/Energy

@@ -29,5 +29,30 @@ SELECT empid, firstname, lastname, country
 FROM HR.Employees
 ORDER BY hiredate;
 
+SELECT TOP(5) orderid, orderdate, custid, empid
+FROM Sales.Orders
+ORDER BY orderdate DESC;
+
+SELECT TOP (1) PERCENT orderid, orderdate, custid, empid
+FROM Sales.Orders
+ORDER BY orderdate DESC;
+
+SELECT TOP(5) orderid, orderdate, custid, empid
+FROM Sales.Orders
+ORDER BY orderdate DESC, orderid DESC;
 
 
+SELECT TOP(5) WITH TIES orderid, orderdate, custid, empid
+FROM Sales.Orders
+ORDER BY orderdate DESC;
+
+SELECT orderid, orderdate, custid, empid
+FROM Sales.Orders
+ORDER BY orderdate, orderid
+OFFSET 50 ROWS FETCH NEXT 25 ROWS ONLY;
+
+SELECT orderid, custid, val,
+	ROW_NUMBER() OVER(PARTITION BY custid
+		ORDER BY val) AS rownum
+FROM Sales.OrderValues
+ORDER BY custid, val;

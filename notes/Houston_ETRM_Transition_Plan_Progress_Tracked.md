@@ -53,6 +53,8 @@ YYYY-MM-DD | Completed: ___ | Update: ___ | Blocker: ___ | Next: ___
  - 2026-07-23 | Completed:  T-SQL Fundamentals CH1 - 7% | Update: on page 27  | Blocker: ___ | Next: Section 1 of SQL Bootcamp
  - 2026-07-23 | Completed:  SQL Bootcamp Section 1 | Update: ___  | Blocker: ___ | Next: Start Chapter 2 of T-Sql Fundamentals
  - 2026-07-26 | Completed:  12% | Update: Completed ch2 - Elements of the Select statement currently on pg 50  | Blocker: ___ | Next: Continue on ch2 Predicates and operators
+ - 2026-07-26 | Completed:  12% | Update: Completed ch2 - Predicates currently on pg 53  | Blocker: ___ | Next: Continue on ch2 Case expressions
+ - 2026-07-26 | Completed:  Basic HTML 63/137 | Update: add free code camp to the cycle 1 hour a day fullstack path  | Blocker: ___ | Next: continue to step 62
 
 - ETRM Support Analyst
 - Trading Systems Support Analystz

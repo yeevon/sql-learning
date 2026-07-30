@@ -1,0 +1,63 @@
+<!-- Audio tag -->
+<audio scr="https://cdn.freecodecamp.org/curriculum/js-music-player/cruising-for-a-musing.mp3"> </audio>
+
+<!--Audio tag not visiable unless you add controls attribute-->
+<audio scr="https://cdn.freecodecamp.org/curriculum/js-music-player/cruising-for-a-musing.mp3" controls> </audio>
+
+<!--Audio loop attribute self explantory-->
+<audio 
+    scr="https://cdn.freecodecamp.org/curriculum/js-music-player/cruising-for-a-musing.mp3"
+    loop
+    controls
+></audio>
+
+<!--Audio muted attribute mutes the audiofile till removed-->
+<audio 
+    scr="https://cdn.freecodecamp.org/curriculum/js-music-player/cruising-for-a-musing.mp3"
+    loop
+    controls
+    muted
+></audio>
+
+<!--ability to output different audio files based on browser support-->
+<audio controls>
+    <source src="audio.ogg" type="audio/ogg" />
+    <source src="audio.wav" type="audio/wav" />
+    <srouce src="audio.mp3" type="audio/mpeg" />
+</audio>
+
+<!--Similar to audio tag you have video tag-->
+<video
+    src="https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4"
+    loop
+    controls
+    muted
+    width="400"
+></video>
+
+<!--Unique to video element poster attribute displays image while video is downloading-->
+<video
+    src="https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4"
+    loop
+    controls
+    muted
+    poster="https://peach.blender.org/wp-content/uploads/title_anouncement.jpg?x11217"
+    width="400"
+></video>
+
+<!--Source inside video element-->
+<video
+    controls
+    width="400"
+    poster="https://peach.blender.org/wp-content/uploads/title_anouncement.jpg?x11217"
+>
+    <source
+    src="https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4"
+    type="video/mp4"
+  />
+  <source
+    src="https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.webm"
+    type="video/webm"
+  />
+  Your browser does not support the video tag.
+</video>

@@ -56,6 +56,8 @@ YYYY-MM-DD | Completed: ___ | Update: ___ | Blocker: ___ | Next: ___
  - 2026-07-26 | Completed:  12% | Update: Completed ch2 - Predicates currently on pg 53  | Blocker: ___ | Next: Continue on ch2 Case expressions
  - 2026-07-26 | Completed:  Basic HTML 63/137 | Update: add free code camp to the cycle 1 hour a day fullstack path  | Blocker: ___ | Next: continue to step 62
  - 2026-07-26 | Completed:  Basic HTML 87/137 | Update: add free code camp to the cycle 1 hour a day fullstack path  | Blocker: ___ | Next: continue to step 88
+ - 2026-07-26 | Completed:  14% | Update: Completed ch2 - Predicates currently on pg 61  | Blocker: ___ | Next: Continue on ch2 The Greatest and Least Functions
+ - 2026-07-26 | Completed:  Basic HTML 120/137 | Update: add free code camp 1 hour | Blocker: ___ | Next: continue to step 121
 
 - ETRM Support Analyst
 - Trading Systems Support Analystz

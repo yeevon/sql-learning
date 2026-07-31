@@ -53,11 +53,14 @@ YYYY-MM-DD | Completed: ___ | Update: ___ | Blocker: ___ | Next: ___
  - 2026-07-23 | Completed:  T-SQL Fundamentals CH1 - 7% | Update: on page 27  | Blocker: ___ | Next: Section 1 of SQL Bootcamp
  - 2026-07-23 | Completed:  SQL Bootcamp Section 1 | Update: ___  | Blocker: ___ | Next: Start Chapter 2 of T-Sql Fundamentals
  - 2026-07-26 | Completed:  12% | Update: Completed ch2 - Elements of the Select statement currently on pg 50  | Blocker: ___ | Next: Continue on ch2 Predicates and operators
- - 2026-07-26 | Completed:  12% | Update: Completed ch2 - Predicates currently on pg 53  | Blocker: ___ | Next: Continue on ch2 Case expressions
- - 2026-07-26 | Completed:  Basic HTML 63/137 | Update: add free code camp to the cycle 1 hour a day fullstack path  | Blocker: ___ | Next: continue to step 62
- - 2026-07-26 | Completed:  Basic HTML 87/137 | Update: add free code camp to the cycle 1 hour a day fullstack path  | Blocker: ___ | Next: continue to step 88
- - 2026-07-26 | Completed:  14% | Update: Completed ch2 - Predicates currently on pg 61  | Blocker: ___ | Next: Continue on ch2 The Greatest and Least Functions
- - 2026-07-26 | Completed:  Basic HTML 120/137 | Update: add free code camp 1 hour | Blocker: ___ | Next: continue to step 121
+ - 2026-07-27 | Completed:  12% | Update: Completed ch2 - Predicates currently on pg 53  | Blocker: ___ | Next: Continue on ch2 Case expressions
+ - 2026-07-27 | Completed:  Basic HTML 63/137 | Update: add free code camp to the cycle 1 hour a day fullstack path  | Blocker: ___ | Next: continue to step 64
+ - 2026-07-28 | Completed:  Basic HTML 87/137 | Update: add free code camp to the cycle 1 hour a day fullstack path  | Blocker: ___ | Next: continue to step 88
+ - 2026-07-29 | Completed:  14% | Update: Completed ch2 - Predicates currently on pg 61  | Blocker: ___ | Next: Continue on ch2 The Greatest and Least Functions
+ - 2026-07-29 | Completed:  Basic HTML 120/137 | Update: add free code camp 1 hour | Blocker: ___ | Next: continue to step 121
+ - 2026-07-30 | Completed:  17% | Update: Completed ch2 - Predicates currently on pg 75  | Blocker: ___ | Next: Continue on ch2 The STUFF Function
+ - 2026-07-30 | Completed:  Basic HTML 137/137 | Update: add free code camp 1 hour | Blocker: ___ | Next: continue to Semantic HTML
+ - 2026-07-30 | Completed:  Semantic HTML 1/55 | Update: ___ | Blocker: ___ | Next: continue to Semantic HTML 2
 
 - ETRM Support Analyst
 - Trading Systems Support Analystz

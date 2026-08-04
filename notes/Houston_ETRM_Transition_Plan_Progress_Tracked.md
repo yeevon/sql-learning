@@ -61,6 +61,9 @@ YYYY-MM-DD | Completed: ___ | Update: ___ | Blocker: ___ | Next: ___
  - 2026-07-30 | Completed:  17% | Update: Completed ch2 - Predicates currently on pg 75  | Blocker: ___ | Next: Continue on ch2 The STUFF Function
  - 2026-07-30 | Completed:  Basic HTML 137/137 | Update: add free code camp 1 hour | Blocker: ___ | Next: continue to Semantic HTML
  - 2026-07-30 | Completed:  Semantic HTML 1/55 | Update: ___ | Blocker: ___ | Next: continue to Semantic HTML 2
+ - 2026-08-02 | Completed:  20% | Update: Completed ch2 - Predicates currently on pg 93  | Blocker: ___ | Next: Continue on ch2 The todatetimeofset function
+ - 2026-08-03 | Completed:  22% | Update: Completed ch2 - currently on pg 10  | Blocker: ___ | Next: Continue with excercises
+ - 2026-08-03 | Completed:  23% | Update: Completed ch2 - excercise 8  | Blocker: ___ | Next: Continue with excercise - 9
 
 - ETRM Support Analyst
 - Trading Systems Support Analystz

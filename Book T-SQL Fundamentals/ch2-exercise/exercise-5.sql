@@ -7,6 +7,12 @@
 
 USE TSQLV6;
 
+-- returns right result but not accurate
 SELECT empid, lastname
 FROM HR.Employees
 WHERE lastname COLLATE Latin1_General_CS_AS  = LOWER(lastname);
+
+-- this is correct
+SELECT empid, lastname
+FROM HR.Employees
+WHERE lastname COLLATE Latin1_General_CS_AS LIKE N'[abcdefghijklmnopqrstuvwxz]%';

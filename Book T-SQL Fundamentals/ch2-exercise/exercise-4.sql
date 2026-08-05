@@ -3,7 +3,8 @@
 
 USE TSQLV6;
 
-SELECT orderid, (qty * unitprice) AS totalvalue
+SELECT orderid, SUM(qty * unitprice) AS totalvalue
 FROM Sales.OrderDetails
-WHERE (qty * unitprice)  > 10000
+GROUP BY orderid
+HAVING SUM(qty * unitprice) > 10000
 ORDER BY totalvalue DESC;

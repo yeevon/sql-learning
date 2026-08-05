@@ -63,7 +63,10 @@ YYYY-MM-DD | Completed: ___ | Update: ___ | Blocker: ___ | Next: ___
  - 2026-07-30 | Completed:  Semantic HTML 1/55 | Update: ___ | Blocker: ___ | Next: continue to Semantic HTML 2
  - 2026-08-02 | Completed:  20% | Update: Completed ch2 - Predicates currently on pg 93  | Blocker: ___ | Next: Continue on ch2 The todatetimeofset function
  - 2026-08-03 | Completed:  22% | Update: Completed ch2 - currently on pg 10  | Blocker: ___ | Next: Continue with excercises
- - 2026-08-03 | Completed:  23% | Update: Completed ch2 - excercise 8  | Blocker: ___ | Next: Continue with excercise - 9
+ - 2026-08-03 | Completed:  23% | Update: Completed ch2 - excercise 8 page 111 | Blocker: ___ | Next: Continue with excercise - 9
+ - 2026-08-03 | Completed:  24% | Update: Completed ch2  | Blocker: ___ | Next: Chpater 3 pg 117
+
+
 
 - ETRM Support Analyst
 - Trading Systems Support Analystz
